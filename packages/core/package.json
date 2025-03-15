@@ -85,7 +85,7 @@
     "uuid": "^9.0.0",
     "web3": "1.10.0",
     "web3-utils": "1.10.0",
-    "xregexp": "^4.2.4",
+    "xregexp": "^4.3.0",
     "yargs": "^13.3.0"
   },
   "devDependencies": {
