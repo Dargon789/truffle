@@ -29,7 +29,7 @@
   "types": "dist/src/index.d.ts",
   "devDependencies": {
     "@types/node": "~12.12.0",
-    "mocha": "10.1.0",
+    "mocha": "11.0.1",
     "tsd": "^0.25.0",
     "ttypescript": "1.5.15",
     "typescript": "^4.9.5",
