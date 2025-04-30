@@ -28,8 +28,8 @@
     "debug": "^4.3.1"
   },
   "devDependencies": {
-    "json-schema-to-typescript": "^5.5.0",
-    "mocha": "10.1.0",
+    "json-schema-to-typescript": "^15.0.1",
+    "mocha": "11.0.1",
     "solc": "0.8.21"
   },
   "keywords": [
