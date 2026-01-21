@@ -21,7 +21,7 @@
     "publish:next": "node ../truffle/scripts/prereleaseVersion.js next next"
   },
   "dependencies": {
-    "@ensdomains/ensjs": "^2.1.0",
+    "@ensdomains/ensjs": "^3.0.0",
     "@truffle/blockchain-utils": "^0.1.9",
     "@truffle/contract-schema": "^3.4.16",
     "@truffle/debug-utils": "^6.0.57",
@@ -29,12 +29,12 @@
     "@truffle/interface-adapter": "^0.5.37",
     "bignumber.js": "^7.2.1",
     "debug": "^4.3.1",
-    "ethers": "^4.0.32",
-    "web3": "1.10.0",
-    "web3-core-helpers": "1.10.0",
+    "ethers": "^5.0.0",
+    "web3": "4.0.1",
+    "web3-core-helpers": "1.10.1",
     "web3-core-promievent": "1.10.0",
-    "web3-eth-abi": "1.10.0",
-    "web3-utils": "1.10.0"
+    "web3-eth-abi": "1.10.1",
+    "web3-utils": "1.10.1"
   },
   "devDependencies": {
     "assert": "^2.0.0",
