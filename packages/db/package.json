@@ -50,7 +50,7 @@
     "pouchdb-adapter-memory": "^7.1.1",
     "pouchdb-debug": "^7.1.1",
     "pouchdb-find": "^7.0.0",
-    "web3-utils": "1.10.0"
+    "web3-utils": "1.10.1"
   },
   "devDependencies": {
     "@fast-check/jest": "^1.0.1",
