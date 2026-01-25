@@ -23,7 +23,7 @@
   "dependencies": {
     "@ethereumjs/common": "^2.4.0",
     "@ethereumjs/tx": "^3.3.0",
-    "@metamask/eth-sig-util": "4.0.1",
+    "@metamask/eth-sig-util": "5.0.1",
     "@truffle/hdwallet": "^0.1.4",
     "@types/ethereum-protocol": "^1.0.0",
     "@types/web3": "1.0.20",
