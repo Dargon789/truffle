@@ -24,7 +24,7 @@
   "dependencies": {
     "@truffle/contract-schema": "^3.4.16",
     "fs-extra": "^9.1.0",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.23"
   },
   "devDependencies": {
     "@truffle/contract": "^4.6.31",
